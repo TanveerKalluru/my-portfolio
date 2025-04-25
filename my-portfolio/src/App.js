@@ -1,12 +1,12 @@
 import React from 'react';
 import "./App.css";
-import Header from './components/header/Header';
-import Home from './components/Home/Home';
-import About from './components/about/About';
-import Skills from './components/Skills/Skills';
-import Projects from './components/projects/Portfolio';
-import Contact from './components/contact/Contact';
-import Footer from './components/footer/Footer';
+import Header from './Components/header/Header';
+import Home from './Components/Home/Home';
+import About from './Components/about/About';
+import Skills from './Components/Skills/Skills';
+import Projects from './Components/projects/Portfolio';
+import Contact from './Components/contact/Contact';
+import Footer from './Components/footer/Footer';
 
 
 const App = () => {
